@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleListViewApp-Mark</string>
+    <string-array name="services">
+        <item>Fuliza</item>
+        <item>Send money</item>
+        <item>Lipa na mpesa</item>
+    </string-array>
+</resources>
